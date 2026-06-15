@@ -12,6 +12,9 @@ Patch management is the process of updating operating systems, software applicat
 
 As cyber threats continue to evolve, software companies regularly release updates to protect users from newly discovered weaknesses. Installing these patches on time is an important part of maintaining a secure IT environment.
 
+![Patch Management Lifecycle](images/patch-mgt-lifecycle.jpeg)
+
+*Figure 1: Patch Management Lifecycle*
 ---
 
 # 2. Why Patch Management is Important
@@ -30,6 +33,9 @@ Some of the major advantages include:
 
 Regular updates not only strengthen security but also ensure that software continues to function efficiently.
 
+![Benefits of Patch Management](images/patch-benefits.jpeg)
+
+*Figure 2: Benefits of Effective Patch Management*
 ---
 
 # 3. Risks of Unpatched Systems
@@ -58,6 +64,9 @@ Successful cyberattacks can interrupt normal business activities and make critic
 
 Organizations may face recovery expenses, legal penalties, and loss of customer trust after a security incident.
 
+![Risks of Unpatched Systems](images/unpatch-risk.jpeg)
+
+*Figure 3: Risks Associated with Unpatched Systems*
 ---
 
 # 4. Real-World Example
@@ -96,6 +105,9 @@ Security patches that address high-risk vulnerabilities should be installed imme
 
 Backing up important information before major updates helps prevent data loss if unexpected problems occur.
 
+![Patch Management Best Practices](images/patch-best-practice.jpeg)
+
+*Figure 4: Patch Management Best Practices*
 ---
 
 # 6. Role of Patch Management in Cybersecurity
@@ -104,6 +116,9 @@ Patch management is one of the basic but most effective cybersecurity practices.
 
 A strong patch management process also supports business continuity by reducing the chances of cyber incidents that could disrupt daily operations.
 
+![Importance of Patch Management](images/imp-patch.jpeg)
+
+*Figure 5: Importance of Patch Management*
 ---
 
 # Conclusion
